@@ -1,0 +1,40 @@
+[[gb;yellow;black]=====================================================================]
+[[gb;yellow;black]==== Experience ====]
+[[gb;yellow;black]=====================================================================]
+
+[[gb;blue;black]System Administrator / Programmer Analyst II]
+Year: [2010-Current]
+Location: Center for Cognitive Neuroscience, UCLA
+Description:
+    Python, Matlab, Scripting, Automation
+    Networking, Web Dev, System Administrator 
+
+    • Sun Grid Engine, LINUX cluster computing (UCLA Hoffman2)
+    • Experimental stimulus programming with MATLAB Psychtoolbox module
+    • FSL (fMRI analysis)
+
+    Knowledge:
+    Hadoop, Machine Learning
+    Systems:
+    MacOS, Linux (CentOS, Ubuntu), Windows
+
+[[gb;blue;black]Programmer Assistant]
+Year: [2010-2009]
+Location: Center for Cognitive Neuroscience, UCLA
+Description:
+    Worked under Ariana Anderson, Ph.D.
+    Scripting statistical analysis of EEG/fMRI brain scans using MatLab and FSL (FMRIB Software Library)
+
+[[gb;blue;black]Student Researcher]
+Year: [2009]
+Location: Statistical Online Computational Resource (SOCR), UCLA Statistics
+Description:
+    Worked Under Ivo Dinov, Ph.D. (Statistic Department)
+    Researched and developed a Java-based GIS mapping program using the Gastner-Newton equations
+
+[[gb;blue;black]Student Researcher ]
+Year: [2008]
+Location: Plasma and Nanotechnology, UCLA Physics
+Description:
+    Worked under Alfred Wong, Ph.D. (Physics Department)
+    Repaired 40 1ft by 1ft circuit boards for a power generator

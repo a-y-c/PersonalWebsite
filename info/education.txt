@@ -1,0 +1,16 @@
+[[gb;yellow;black]=====================================================================]
+[[gb;yellow;black]==== Education ====]
+[[gb;yellow;black]=====================================================================]
+
+    [[gbu;blue;black]University of California, Los Angeles (UCLA)]
+    Master of Science, Computer Networking
+        Year: 2013-2015
+        GPA: 3.7
+
+    [[gbu;blue;black]University of California, Los Angeles (UCLA)]
+    Bachelor of Science, Computer Science and Engineering
+        Year: 2007-2011
+    
+    [[gub;magenta;black]Covina High School]
+    GED 
+        Year: 2003-2007

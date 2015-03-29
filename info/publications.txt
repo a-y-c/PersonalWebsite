@@ -1,0 +1,14 @@
+[[gb;yellow;black]=====================================================================]
+[[gb;yellow;black]==== Publications ====]
+[[gb;yellow;black]=====================================================================]
+
+[[gb;blue;black][1\]] Wesley T Kerr, Stefan T Nguyen, Andrew Y Cho, Edward P Lau, Daniel H Silverman, Pamela K Douglas, Navya M Reddy, Ariana Anderson, Jennifer Bramen, Noriko Salamon, John M. Stern, Mark S Cohen; Computer aided diagnosis and localization of lateralized temporal lobe epilepsy using interictal FDG-PET. Frontiers Neurol. 4:31. doi: 10.3389/fneur.2013.00031
+
+[[gb;blue;black][2\]] Wesley T Kerr, Ariana Anderson, Edward P Lau, Andrew Y Cho, Hongjing Xia, Jennifer Bramen, Pamela K Douglas, Eric S Braun, John M Stern, Mark S Cohen; Automated diagnosis of epilepsy using EEG power spectrum. Epilepsia, 53: e189 –e192. doi:10.1111/j.1528-1167.2012.03653.x
+
+[[gb;blue;black][3\]] Wesley T Kerr, Ariana Anderson, Hongjin Xia, Erik Braun, Edward P Lau, Andrew Y Cho, Mark S Cohen; Parameter Selection in Mutual Information-Based Feature Selection in Automated Diagnosis of Multiple Epilepsies Using Scalp EEG. Pattern Recognition in Neurol. 45-48, doi: 10.1109/PRNI.2012.27
+
+[[gb;blue;black][4\]] Ariana Anderson, Jennifer Bramen, Pamela K Douglas, Agatha Lenartowicz, Andrew Y Cho, Chris Culbertson, Arthur L Brody, Alan L Yuille, Mark S Cohen; Large Sample Group Independent Component Analysis of Functional Magnetic Resonance Imaging Using Anatomical Atlas-Based Reduction and Bootstrapped Clustering. Int. J. Imaging Syst. Technol., 21: 223–231. doi: 10.1002/ima.20286
+
+[[gb;blue;black][5\]] Wesley Kerr, Andrew Y Cho, Ariana Anderson, Pamela Douglas, Stefan T Nguyen, Navya M Reddy, Edward Lau, Eric S Hwang, Kaavya Raman, Aaron Trefler, Daniel H Silverman, Mark S Cohen; Balancing clinical and pathologic relevance in machine learning diagnosis of epilepsy. Pattern Recognition in Neurol. 86-89, PRNI.2013.6
+

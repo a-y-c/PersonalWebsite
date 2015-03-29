@@ -1,0 +1,11 @@
+Building Terminal ...
+Loading Profile ...
+
+Spinning up the Hamsters...
+Loading Hamster 1 ... online.
+Loading Hamster 2 ... online.
+Loading Hamster 3 ... online.
+Ready.
+
+Welcome to [[gb;blue;black]Andrew Y Cho's] Personal Website!
+Enter a [[gb;red;black]Command]. (Type '[[gb;yellow;black]help]' for more information.)

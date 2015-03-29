@@ -1,0 +1,24 @@
+[[gb;yellow;black]=====================================================================]
+[[gb;yellow;black]==== About ====]
+[[gb;yellow;black]=====================================================================]
+
+    I am a ...
+        Programmer Anaylst
+        System Administrator
+        Network Engineer
+        Software Developer
+   
+    I know ...
+        too many programming languages to count.
+
+    My [[gb;blue;black] Areas of Interest ] are ...
+        High Performance Computing
+        Systems and Networking
+        Machine Learning
+        Computer Security
+
+    When I'm not at my desk (or bed) ...
+        I am probably ...
+            fishing
+            playing magic
+            cycling
